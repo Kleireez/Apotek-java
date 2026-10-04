@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/apotekfinal/Apotek.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/view/PenjualanView.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/view/PembelianView.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/view/ObatView.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/LaporanController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/CrudInterface.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/ObatController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/PenjualanController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/controller/PembelianController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/model/Admin.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/model/Obat.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/view/DashboardView.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/view/LoginView.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/database/KoneksiDatabase.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ApotekK1/src/model/Penjualan.java</file>
+        </group>
+    </open-files>
+</project-private>
